@@ -33,20 +33,12 @@ Before you can establish a Hardware Dev Center hardware dashboard account, you n
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Bug management</p></td>
-<td><p>Standard or EV</p></td>
-</tr>
-<tr class="even">
-<td><p>DDC – Driver Distribution Center</p></td>
-<td><p>Standard or EV</p></td>
-</tr>
-<tr class="odd">
 <td><p>Device Metadata</p></td>
-<td><p>Standard or EV</p></td>
+<td><p>EV</p></td>
 </tr>
 <tr class="even">
 <td><p>Report Data</p></td>
-<td><p>Standard or EV</p></td>
+<td><p>EV</p></td>
 </tr>
 <tr class="odd">
 <td><p>Submissions</p></td>
@@ -54,7 +46,7 @@ Before you can establish a Hardware Dev Center hardware dashboard account, you n
 </tr>
 <tr class="even">
 <td><p>WRD – Windows Remote Debugging</p></td>
-<td><p>Standard or EV</p></td>
+<td><p>EV</p></td>
 </tr>
 <tr class="odd">
 <td><p>LSA</p></td>
